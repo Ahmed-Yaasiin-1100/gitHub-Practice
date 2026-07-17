@@ -23,3 +23,9 @@ let students = {
     age : 23
 }
 
+
+const welcome = ()=>{
+    console.log("welcome");
+    
+}
+
