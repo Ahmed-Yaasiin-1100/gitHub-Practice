@@ -17,3 +17,9 @@ function greet(){
 }
 
 let fruits = ["apple", "banana", "orange"]
+
+let students = {
+    name : "Ahmed",
+    age : 23
+}
+
