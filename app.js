@@ -4,3 +4,4 @@ let name = "Ahmed"
 
 let age = 23
 
+let address = "xamar jajab"
