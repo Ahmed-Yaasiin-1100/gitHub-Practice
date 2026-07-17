@@ -1,1 +1,2 @@
 1 : Bariis
+2 : baasto
