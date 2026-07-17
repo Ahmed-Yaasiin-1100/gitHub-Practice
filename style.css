@@ -14,3 +14,7 @@ h1{
 span {
     font-size: 12px;
 }
+
+input {
+    border: none;
+}
