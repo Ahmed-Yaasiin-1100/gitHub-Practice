@@ -7,3 +7,6 @@ let age = 23
 let address = "xamar jajab"
 
 const email = "ahmed@gmail.com"
+
+
+alert("hello")
