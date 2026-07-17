@@ -10,3 +10,8 @@ const email = "ahmed@gmail.com"
 
 
 alert("hello")
+
+function greet(){
+    console.log("Hello Guys");
+    
+}
