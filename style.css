@@ -18,3 +18,7 @@ span {
 input {
     border: none;
 }
+
+small {
+    background-color: red;
+}
