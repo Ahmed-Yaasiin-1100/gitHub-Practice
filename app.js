@@ -15,3 +15,5 @@ function greet(){
     console.log("Hello Guys");
     
 }
+
+let fruits = ["apple", "banana", "orange"]
