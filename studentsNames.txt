@@ -6,3 +6,4 @@
 6 maxamuud
 7 xasan
 8 qaalid
+9 sahro
