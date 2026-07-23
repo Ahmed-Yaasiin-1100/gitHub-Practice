@@ -1,4 +1,4 @@
-id :
-name : 
-gender :
-phone :
+id : 1
+name : cali Faarax
+gender : male
+phone : 08122522
