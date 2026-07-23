@@ -1,9 +1,9 @@
-1 Ahmed
-2 nasro
-3 xuseen
-4 sabariin
-5 sumayo
-6 maxamuud
-7 xasan
-8 qaalid
-9 sahro
+1 Ahmed : male 
+2 nasro : female
+3 xuseen : male
+4 sabariin : female
+5 sumayo  :   female
+6 maxamuud : male
+7 xasan  : male
+8 qaalid : male
+9 sahro : female
